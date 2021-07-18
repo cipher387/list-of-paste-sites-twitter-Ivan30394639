@@ -1,4 +1,8 @@
 
+
+ /* This project is no longer supported. An up-to-date list of pastebin sites can be found at https://cipher387.github.io/pastebinsearchengines/ */
+
+
 sources:
 https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins
 https://github.com/jamesacampbell/awesome-pastes
